@@ -82,5 +82,3 @@ Además de la interfaz gráfica, el programa ofrece un menú en consola para int
 ## Conclusión
 
 Este programa es una solución básica para el control de inventario, permitiendo gestionar productos de manera efectiva. Se pueden añadir más funcionalidades y mejoras en el futuro.
-```
-
